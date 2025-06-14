@@ -16,7 +16,7 @@ Trabalhando em uma farmácia participante do programa, percebi que muitos client
 
 ## 📱 Funcionalidades
 
-### Funcionalidades Atuais
+### Funcionalidades
 
 * Cadastro de receitas com os seguintes campos:
 
