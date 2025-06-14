@@ -1,6 +1,6 @@
 # 💊 Lembrete Farmácia Popular
 
-**Lembrete Farmácia Popular** é um aplicativo criado para ajudar os usuários do programa governamental **Farmácia Popular** a lembrar da retirada de medicamentos e do vencimento de suas receitas médicas.
+**Lembrete Farmácia Popular** é um aplicativo sendo criado para ajudar os usuários do programa governamental **Farmácia Popular** a lembrar da retirada de medicamentos e do vencimento de suas receitas médicas.
 
 ## 🧠 Motivação
 
